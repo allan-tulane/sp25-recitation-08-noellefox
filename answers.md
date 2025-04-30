@@ -2,8 +2,8 @@
 
 ## Answers
 
-**Name:**_________________________
-**Name:**_________________________
+**Name:**_____Noelle Fox______
+**Name:**_____Mohini Yadev_______
 
 
 Place all written answers from `recitation-08.md` here for easier grading.
@@ -11,6 +11,7 @@ Place all written answers from `recitation-08.md` here for easier grading.
 
 
 - **1b)**
+  - W = O((V+E) log V)
 
 
 
